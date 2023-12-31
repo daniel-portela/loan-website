@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
 
-<p> Site para empresa Hotel Jurema desenvolvido de forma autônoma com design responsivo usando propriedades avançadas do HTML, CSS e Javascript. </p>
+<p>Projeto Empréstimos - desenvolvido com HTML, CSS e JavaScript, proporcionando uma experiência de usuário fluida e responsiva. O design é alinhado com a estrutura do site, oferece uma navegação intuitiva e simplificada. Meu foco está na acessibilidade e na experiência do usuário. </p>
 
 <a href="https://siteemprestimo.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
