@@ -11,9 +11,9 @@ Projeto de site <a href="https://siteemprestimo.netlify.app/">empréstimos</a>
 <a href="https://siteemprestimo.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/loan-website/assets/110783805/4952af53-8d56-4731-9d39-2ba9642cbfba)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/loan-website/assets/110783805/5effe2ce-fe3d-43dc-b577-9e34c707c216)
 
 <b>Visão Geral</b>
 
