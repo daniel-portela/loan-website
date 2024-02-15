@@ -1,23 +1,75 @@
 <div align="center">
 
-<b>Site de Empréstimos</b>
+Projeto de site <a href="https://siteemprestimo.netlify.app/">empréstimos</a>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
 
-<p>Projeto Empréstimos - desenvolvido com HTML, CSS e JavaScript, proporcionando uma experiência de usuário fluida e responsiva. O design é alinhado com a estrutura do site, oferece uma navegação intuitiva e simplificada. Meu foco está na acessibilidade e na experiência do usuário. </p>
+<p>Este é um projeto de site chamado "Empréstimos" desenvolvido para oferecer serviços de empréstimo personalizados e acessíveis para diferentes necessidades financeiras. Este documento apresenta uma visão geral do projeto, suas características principais e como utilizá-lo.</p>
 
 <a href="https://siteemprestimo.netlify.app/"><strong>Demonstração ao vivo</strong></a>
-</div><br>
+</div>
 
+![alt text](preview.jpg)
 
-<b>Capturas de tela de demonstração:</b>
+![alt text](preview-responsive.jpg)
 
-![Alt text](siteemprestimo.netlify.app_.png)
+<b>Visão Geral</b>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
+O site <a href="https://siteemprestimo.netlify.app/">empréstimos</a> é uma plataforma que oferece informações e serviços relacionados a empréstimos pessoais, habitação, cartão de crédito, empréstimo comercial, empréstimo educacional e empréstimo de carro. Ele foi desenvolvido com o objetivo de fornecer uma experiência de usuário intuitiva e informativa para os visitantes interessados em obter empréstimos.
 
+<b>Funcionalidades principais</b>
+
+Navegação intuitiva: 
+
+A navegação do site é simplificada, com um menu de navegação no cabeçalho que permite aos usuários acessarem facilmente as diferentes seções do site.
+
+Apresentação de serviços: 
+
+O site destaca os diferentes tipos de serviços de empréstimo oferecidos, apresentando informações sobre cada um, incluindo descrições e links para saber mais.
+
+Processo de inscrição: 
+
+Uma seção dedicada explica o processo de inscrição para um empréstimo, dividido em etapas claras e concisas.
+
+Depoimentos de clientes: 
+
+A seção de análises apresenta depoimentos de clientes satisfeitos, fornecendo uma prova social da qualidade dos serviços oferecidos.
+
+Informações de contato: 
+
+Na seção de contato, os visitantes podem encontrar informações de contato essenciais, incluindo endereço, números de telefone e e-mail, juntamente com um formulário de contato para consultas adicionais.
+
+Como utilizar a navegabilidade do site?
+
+1 passo: navegação
+
+Use o menu de navegação no cabeçalho para acessar diferentes seções do site, incluindo Início, Serviços, Processo, Análises e Contato.
+
+2 passo: explorar serviços
+
+Explore as diferentes categorias de serviços de empréstimo apresentadas no site para entender melhor as opções disponíveis.
+
+3 passo: processo de inscrição
+
+Leia a seção sobre o processo de inscrição para entender os passos necessários para solicitar um empréstimo.
+
+4 passo: depoimentos de clientes 
+
+Leia os depoimentos de clientes na seção de análises para ter uma ideia das experiências de outros clientes com os serviços de empréstimo.
+
+5 passo: contato
+
+Para entrar em contato com a empresa, utilize as informações fornecidas na seção de contato ou preencha o formulário de contato para enviar uma mensagem diretamente.
+
+Tecnologias utilizadas:
+
+O site <a href="https://siteemprestimo.netlify.app/">empréstimos</a> foi desenvolvido utilizando HTML5, CSS3 e JavaScript. Além disso, foram utilizadas bibliotecas externas, como Font Awesome para ícones e jQuery para funcionalidades dinâmicas.
+
+<b>Autor</b>
+
+Este projeto foi desenvolvido por <a href="https://github.com/daniel-portela/">Daniel Portela</a> e é distribuído sob a [licença MIT]. Para mais informações, consulte o arquivo [LICENSE](LICENSE)
 
 <br><b>Contato:</b>
 
@@ -31,4 +83,7 @@
 </a>
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
+<a href="https://www.behance.net/danielengineer_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
 </a>

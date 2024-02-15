@@ -1,54 +1,44 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
-  $('#menu').click(function(){
+  $('#menu').click(function () {
     $(this).toggleClass('fa-times');
     $('.navbar').toggleClass('nav-toggle');
   });
 
-  $(window).on('scroll load',function(){
+  $(window).on('scroll load', function () {
 
     $('#menu').removeClass('fa-times');
     $('.navbar').removeClass('nav-toggle');
 
-    if($(window).scrollTop() > 0){
+    if ($(window).scrollTop() > 0) {
       $('.scroll-top').show();
-    }else{
+    } else {
       $('.scroll-top').hide();
     }
 
-    // Rolagem
-
-    $('section').each(function(){
-
+    $('section').each(function () {
       let height = $(this).height();
       let offset = $(this).offset().top - 200;
       let top = $(window).scrollTop();
       let id = $(this).attr('id');
 
-      if(top > offset && top < offset + height){
+      if (top > offset && top < offset + height) {
         $('.navbar ul li a').removeClass('active');
         $('.navbar').find(`[href="#${id}"]`).addClass('active');
       }
-
     });
-
   });
 
-  // Rolagem suave
-
-  $('a[href*="#"]').on('click',function(e){
+  $('a[href*="#"]').on('click', function (e) {
 
     e.preventDefault();
 
     $('html, body').animate({
 
-      scrollTop : $($(this).attr('href')).offset().top,
-
+      scrollTop: $($(this).attr('href')).offset().top,
     },
       500,
       'linear'
     );
-
   });
-
 });
